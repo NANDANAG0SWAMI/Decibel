@@ -1,7 +1,7 @@
 # Decibel: Multi-Model Evaluation Dashboard
 
 
-ASR-Bench is a full-stack, "batteries-included" tool for developers to benchmark various Automatic Speech Recognition (ASR) models (like Whisper, Google STT, etc.) against their own data.
+Decibel is a full-stack, "batteries-included" tool for developers to benchmark various Automatic Speech Recognition (ASR) models (like Whisper, Google STT, etc.) against their own data.
 
 It's designed to definitively answer the question: "Which ASR model is best for my specific audio data?"
 
